@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The_Feast_Of_Many_Beasts_1", "The_Feast_Of_Many_Beasts_1\The_Feast_Of_Many_Beasts_1.vcxproj", "{591E65E2-CB7E-4E0E-98B5-FED8EA26D488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{591E65E2-CB7E-4E0E-98B5-FED8EA26D488}.Debug|x64.ActiveCfg = Debug|x64
+		{591E65E2-CB7E-4E0E-98B5-FED8EA26D488}.Debug|x64.Build.0 = Debug|x64
+		{591E65E2-CB7E-4E0E-98B5-FED8EA26D488}.Debug|x86.ActiveCfg = Debug|Win32
+		{591E65E2-CB7E-4E0E-98B5-FED8EA26D488}.Debug|x86.Build.0 = Debug|Win32
+		{591E65E2-CB7E-4E0E-98B5-FED8EA26D488}.Release|x64.ActiveCfg = Release|x64
+		{591E65E2-CB7E-4E0E-98B5-FED8EA26D488}.Release|x64.Build.0 = Release|x64
+		{591E65E2-CB7E-4E0E-98B5-FED8EA26D488}.Release|x86.ActiveCfg = Release|Win32
+		{591E65E2-CB7E-4E0E-98B5-FED8EA26D488}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF41D601-F472-495D-8B2D-7A50DACCBEC1}
+	EndGlobalSection
+EndGlobal
